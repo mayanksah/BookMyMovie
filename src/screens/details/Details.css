@@ -1,0 +1,35 @@
+.details-content {
+  margin: 10px 24px;
+}
+
+.back-link {
+  text-decoration: none;
+  color: #000000;
+}
+
+.back-to-home {
+  margin: 8px 0 0px 0px;
+  height: 24px;
+}
+
+.back-to-home:hover {
+  cursor: pointer;
+}
+
+.main-content {
+  display: flex;
+  gap: 50px;
+}
+
+.mid-container {
+  width: 60%;
+}
+
+.star-container {
+  display: flex;
+  gap: 10px;
+}
+
+.artist-heading {
+  margin: 10px 0px;
+}
